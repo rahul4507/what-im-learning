@@ -1,2 +1,22 @@
 # what-im-learning
 https://www.youtube.com/watch?v=TZ5a3gCCZYo 
+
+#Things to start doing and start implementing
+1. Open source Coding
+2. Tutoring (Chegg)
+3. Hackathon (Web3)
+4. Freelancing 
+5. Bug Bounty (e.g. hacker one)
+6. Internship 
+7. Placement
+
+and 
+
+1. NOT BEING AFRAID OF ANY FRAMEWORK OR LANGUAGE
+2. SPENDING MORE TIME IN THE TERMINAL
+3. GETTING COMFORTABLE WITH THE VERSION CONTROL SYSTEM
+4. PRACTICING CI/CD (CONTINUOUS INTEGRATION & CONTINUOUS DEPLOYMENT)
+5. CONTRIBUTING TO OPEN SOURCE NETWORKS
+6. BE A PART OF THE RIGHT COMMUNITY
+7. MAKE A READING LIST OF STUFF YOU WANT TO LEARN
+8. GET OUR OF YOUR COMFORT ZONE
