@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=TZ5a3gCCZYo
 3. Learn Touch Typing and make use of only keyboard aboid mouse and touchpad
 4. Start this right now.
 
+#Alwaya keep this in mind
 1. NOT BEING AFRAID OF ANY FRAMEWORK OR LANGUAGE
 2. SPENDING MORE TIME IN THE TERMINAL
 3. GETTING COMFORTABLE WITH THE VERSION CONTROL SYSTEM
