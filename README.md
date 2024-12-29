@@ -1,16 +1,9 @@
 # what-im-learning
 https://www.youtube.com/watch?v=TZ5a3gCCZYo 
-
-#Things to start doing and start implementing
-1. Open source Coding
-2. Tutoring (Chegg)
-3. Hackathon (Web3)
-4. Freelancing 
-5. Bug Bounty (e.g. hacker one)
-6. Internship 
-7. Placement
-
-and 
+1. Install Linux --> done
+2. Start using VIM editor
+3. Learn Touch Typing and make use of only keyboard aboid mouse and touchpad
+4. Start this right now.
 
 1. NOT BEING AFRAID OF ANY FRAMEWORK OR LANGUAGE
 2. SPENDING MORE TIME IN THE TERMINAL
